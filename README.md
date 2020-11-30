@@ -10,4 +10,3 @@ My New Project
 - [x] Pousser le ou les commit vers le serveur
 - [ ] Créer une nouvelle branche
 - [ ] Basculer sur cette branche
-
