@@ -25,8 +25,8 @@ Open source EDA / electronics CAD software for Windows, macOS and Linux.
 
 ## Electrical diagram
 
-![Schematic](Images\schematic.png)
+![Schematic](Images/schematic.png)
 
 ## Component placement
 
-![Place components](Images\place-components.png)
+![Place components](Images/place-components.png)
