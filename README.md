@@ -9,3 +9,5 @@ My New Project
 - [x] Faire un commit (en local sur mon PC)
 - [x] Pousser le ou les commit vers le serveur
 - [ ] Créer une nouvelle branche
+- [ ] Basculer sur cette branche
+
