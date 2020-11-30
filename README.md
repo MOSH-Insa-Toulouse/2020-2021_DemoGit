@@ -5,6 +5,7 @@ My New Project
 ## TODO
 
 - [x] Ajouter de nouveaux fichiers
-- [ ] Les ajouter à l'index de suivi
-- [ ] Faire un commit (en local)
-- [ ] Pousser le ou les commit vers le serveur
+- [x] Les ajouter à l'index de suivi
+- [x] Faire un commit (en local)
+- [x] Pousser le ou les commit vers le serveur
+- [ ] Créer une nouvelle branche
