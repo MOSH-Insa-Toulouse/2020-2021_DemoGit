@@ -6,6 +6,6 @@ My New Project
 
 - [x] Ajouter de nouveaux fichiers
 - [x] Les ajouter à l'index de suivi
-- [x] Faire un commit (en local)
+- [ ] Faire un commit (en local)
 - [x] Pousser le ou les commit vers le serveur
 - [ ] Créer une nouvelle branche
