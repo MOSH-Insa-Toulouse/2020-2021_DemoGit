@@ -2,6 +2,8 @@
 
 My New Project
 
+---
+
 ## TODO
 
 - [x] Ajouter de nouveaux fichiers
@@ -10,3 +12,21 @@ My New Project
 - [x] Pousser le ou les commit vers le serveur
 - [ ] Créer une nouvelle branche
 - [ ] Basculer sur cette branche
+
+---
+
+## Tools used
+
+### KiCad
+
+[KiCad EDA - Schematic Capture & PCB Design Software](https://kicad-pcb.org/), version: 5.1.7
+
+Open source EDA / electronics CAD software for Windows, macOS and Linux.
+
+## Electrical diagram
+
+![Schematic](Images\schematic.png)
+
+## Component placement
+
+![Place components](Images\place-components.png)

@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 27)
+    (drawings 28)
     (tracks 0)
     (zones 0)
     (modules 16)
@@ -67,8 +67,8 @@
     (pad_size 4.064 4.064)
     (pad_drill 3.048)
     (pad_to_mask_clearance 0)
-    (aux_axis_origin 110.998 126.365)
-    (grid_origin 110.998 126.365)
+    (aux_axis_origin 110.998 73.025)
+    (grid_origin 110.998 73.025)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
       (layerselection 0x00030_80000001)
@@ -435,8 +435,8 @@
       (net 25 "Net-(P8-Pad1)"))
   )
 
-  (module LED_THT:LED_D5.0mm (layer F.Cu) (tedit 5995936A) (tstamp 5FC527D7)
-    (at 201.213001 101.940001)
+  (module LED_THT:LED_D5.0mm (layer F.Cu) (tedit 5995936A) (tstamp 5FC52B70)
+    (at 115.998 86.025)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /5FC4CFF8)
@@ -472,7 +472,7 @@
   )
 
   (module LED_THT:LED_D5.0mm (layer F.Cu) (tedit 5995936A) (tstamp 5FC527E9)
-    (at 187.903001 110.040001)
+    (at 115.998 95.025)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /5FC5721B)
@@ -508,7 +508,7 @@
   )
 
   (module LED_THT:LED_D5.0mm (layer F.Cu) (tedit 5995936A) (tstamp 5FC527FB)
-    (at 214.523001 97.890001)
+    (at 115.998 104.025)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /5FC5A1AB)
@@ -544,7 +544,7 @@
   )
 
   (module LED_THT:LED_D5.0mm (layer F.Cu) (tedit 5995936A) (tstamp 5FC5280D)
-    (at 195.403001 110.040001)
+    (at 115.998 113.025)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /5FC5A34F)
@@ -580,7 +580,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5FC52824)
-    (at 187.003001 96.140001)
+    (at 125.998 86.025)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5FC4E899)
@@ -621,7 +621,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5FC5283B)
-    (at 187.003001 100.190001)
+    (at 125.998 95.025)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5FC5738B)
@@ -662,7 +662,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5FC52852)
-    (at 200.313001 96.140001)
+    (at 125.998 104.025)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5FC5A343)
@@ -703,7 +703,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5FC52869)
-    (at 187.003001 104.240001)
+    (at 125.998 113.025)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5FC5A359)
@@ -743,6 +743,18 @@
     )
   )
 
+  (dimension 10 (width 0.15) (layer Dwgs.User)
+    (gr_text "10.000 mm" (at 124.938 80.565 270) (layer Dwgs.User)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (feature1 (pts (xy 126.238 85.565) (xy 125.651579 85.565)))
+    (feature2 (pts (xy 126.238 75.565) (xy 125.651579 75.565)))
+    (crossbar (pts (xy 126.238 75.565) (xy 126.238 85.565)))
+    (arrow1a (pts (xy 126.238 85.565) (xy 125.651579 84.438496)))
+    (arrow1b (pts (xy 126.238 85.565) (xy 126.824421 84.438496)))
+    (arrow2a (pts (xy 126.238 75.565) (xy 125.651579 76.691504)))
+    (arrow2b (pts (xy 126.238 75.565) (xy 126.824421 76.691504)))
+  )
   (gr_text 1 (at 138.938 121.285 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
