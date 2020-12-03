@@ -15,6 +15,41 @@ Contact : [ArnauldDev](biganzol@insa-toulouse.fr)
 - [x] Créer une nouvelle branche
 - [x] Basculer sur cette branche
 
+### Arduino Project
+
+[Communication > Serial](https://www.arduino.cc/reference/en/language/functions/communication/serial/)
+
+[SerialEvent](https://www.arduino.cc/en/Tutorial/BuiltInExamples/SerialEvent)
+
+```c++
+// print the string when a newline arrives:
+if (stringComplete)
+{
+    Serial.println(); // faire un saut de ligne entre les réponses
+    Serial.print("Vous avez repondu ");
+    Serial.println(inputString);
+    // test de la réponse du joueur
+    if (inputString == "kicad")
+    {
+        Serial.println("Go for a new PCB board!");
+    }
+    else
+    {
+        Serial.println("C'est pas tout a fait ca...");
+    }
+    // clear the string:
+    inputString = "";
+    stringComplete = false;
+}
+
+```
+
+---
+
+## Fabrication des circuits imprimés (PCB)
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/75387605" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 ---
 
 ## TODO Concevoir une carte avec KiCad
