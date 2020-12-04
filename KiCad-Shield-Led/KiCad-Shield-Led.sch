@@ -52,10 +52,6 @@ Text Label 10550 1600 0    60   ~ 0
 Text Label 10550 1400 0    60   ~ 0
 AREF
 NoConn ~ 9400 1600
-Text Label 10550 1300 0    60   ~ 0
-A4(SDA)
-Text Label 10550 1200 0    60   ~ 0
-A5(SCL)
 Text Notes 10850 1000 0    60   ~ 0
 Holes
 Text Notes 8550 750  0    60   ~ 0
@@ -431,20 +427,12 @@ Wire Wire Line
 	6900 1800 6900 2100
 Wire Wire Line
 	6550 2100 6550 1700
-Wire Wire Line
-	6550 1700 7950 1700
-Text Label 7950 1700 0    50   ~ 0
-LED1
-Text Label 7950 1800 0    50   ~ 0
-LED2
 Text Label 7950 1900 0    50   ~ 0
 LED3
 Text Label 7950 2000 0    50   ~ 0
 LED4
 Text Label 10550 1700 0    50   ~ 0
 LED1
-Text Label 10550 1800 0    50   ~ 0
-LED2
 Text Label 10550 1900 0    50   ~ 0
 LED3
 Text Label 10550 2000 0    50   ~ 0
@@ -533,4 +521,16 @@ F 3 "~" H 8050 850 50  0001 C CNN
 	1    8050 850 
 	1    0    0    -1  
 $EndComp
+Text Label 10550 1800 0    50   ~ 0
+LED2
+Text Label 7950 1800 0    50   ~ 0
+LED2
+Text Label 7950 1700 0    50   ~ 0
+LED1
+Wire Wire Line
+	6550 1700 7950 1700
+NoConn ~ 10550 1200
+NoConn ~ 10550 1300
+NoConn ~ 8900 2900
+NoConn ~ 8900 3000
 $EndSCHEMATC
