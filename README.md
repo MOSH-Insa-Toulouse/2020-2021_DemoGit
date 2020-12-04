@@ -30,3 +30,13 @@ Open source EDA / electronics CAD software for Windows, macOS and Linux.
 ## Component placement
 
 ![Place components](Images/place-components.png)
+
+## Création des librairies
+
+### Les symboles
+
+### Les empreintes
+
+${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-5-4_Window.wrl
+
+![Place components](Images/3D-View.png)

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name iss_gpB_gazSensor)(type Legacy)(uri C:/GItHub/2020-2021_DemoGit/KiCad-Shield-Led/library/iss_gpB_gazSensor.lib)(options "")(descr ""))
+)

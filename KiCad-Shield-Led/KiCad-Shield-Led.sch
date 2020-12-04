@@ -533,4 +533,39 @@ NoConn ~ 10550 1200
 NoConn ~ 10550 1300
 NoConn ~ 8900 2900
 NoConn ~ 8900 3000
+$Comp
+L iss_gpB_gazSensor:Gsens R5
+U 1 1 5FCB75C6
+P 3600 3350
+F 0 "R5" H 3768 3396 50  0000 L CNN
+F 1 "Gsens" H 3768 3305 50  0000 L CNN
+F 2 "MesEmpreintes:TO-5-10_Window" V 3430 3350 50  0001 C CNN
+F 3 "~" H 3500 3350 50  0001 C CNN
+	1    3600 3350
+	1    0    0    -1  
+$EndComp
+Text Label 4900 3600 0    50   ~ 0
+LED3
+Text Label 4900 3100 0    50   ~ 0
+LED4
+Text Label 4900 2900 0    50   ~ 0
+LED2
+Text Label 4900 3800 0    50   ~ 0
+LED1
+Wire Wire Line
+	3500 3800 4900 3800
+Wire Wire Line
+	3500 2900 3500 3200
+Wire Wire Line
+	3500 2900 4900 2900
+Wire Wire Line
+	3700 3100 3700 3200
+Wire Wire Line
+	3700 3100 4900 3100
+Wire Wire Line
+	3700 3600 3700 3500
+Wire Wire Line
+	3700 3600 4900 3600
+Wire Wire Line
+	3500 3800 3500 3500
 $EndSCHEMATC
